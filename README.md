@@ -1,8 +1,7 @@
 # Dictionary-Collection
 ## 碰到了很多的字典，谁都有自己好使的字典，我把他们的字典又做了一个整理，持续维护~
 ----------------------------------------------------------------------
-目录结构为：
-! [Image text](https://github.com/JE2Se/Dictionary-Collection/blob/master/mulu.png)
+![image](https://github.com/JE2Se/Dictionary-Collection/blob/master/mulu.png)
 ----------------------------------------------------------------------
 说明：
   第一次更新时间：2019-06-14 00:13:09
